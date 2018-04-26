@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- This is the Configuration File of QuExeCute. Please only change it if you know what you do! -->
+<appconfig>
+  <populatestartmenu>True</populatestartmenu>
+  <!-- opacity = The Transparency of the Main Window, from 0 to 100 -->
+  <opacity>90</opacity>
+  <!-- width = The width of the Main Window - Mustn't be smaller than 400. -->
+  <width>625</width>
+  <!-- position = The Position of QuExeCute's Main Window
+        0 = Top Edge of the screen
+        1 = Center of the screen
+    -->
+  <position>0</position>
+  <!-- autocompletemode = How the Autocompletion will be shown
+        0 = Don't show
+        1 = Show as DropDown List (Suggest)
+        2 = Append to the Text in the Command Line (Append)
+        3 = Combination of 2 and 1 (SuggestAppend)
+    -->
+  <autocompletemode>1</autocompletemode>
+  <!-- acceptqllinks = Accept and react to QuExeCute-Links. -->
+  <acceptqllinks>1</acceptqllinks>
+  <!-- hideonfocuslose = (Closes the Main Window when it loses Focus -->
+  <hideonfocuslose>True</hideonfocuslose>
+  <!-- language = The language that QuExeCute is using
+        DEF = The System's Language
+        DE = German
+        EN = English
+    -->
+  <language>DEF</language>
+  <!-- hotkey,hkmods = The Hotkey that is used to open the Main Window.
+       Please only change these Values in the QuExeCute Settings! -->
+  <hotkey>32</hotkey>
+  <hkmods>2</hkmods>
+  <shortcuts>
+    <!-- Variables: See http://qc.leolabs.org/en/help/interface/#settings-shortcuts-add -->
+    <sc title="Google-Suche" term="g" path="http://google.com/search?q=%querywplus%" icon="%iconpath%\google.png" />
+    <sc title="Bing-Suche" term="b" path="http://www.bing.com/search?q=%querywplus%" icon="%iconpath%\bing.png" />
+    <sc title="YouTube-Suche" term="yt" path="http://www.youtube.com/results?search_query=%querywplus%" icon="%iconpath%\youtube.png" />
+    <sc title="Facebook" term="fb" path="https://www.facebook.com/search/results.php?q=%query%" icon="%iconpath%\facebook.png" />
+  </shortcuts>
+  <history>
+  </history>
+</appconfig>

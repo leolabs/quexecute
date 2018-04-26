@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<XML_DIZ_INFO>
+	<MASTER_PAD_VERSION_INFO>
+		<MASTER_PAD_VERSION>3.11</MASTER_PAD_VERSION>
+		<MASTER_PAD_EDITOR>PADGen 3.1.1.50 http://www.padgen.org</MASTER_PAD_EDITOR>
+		<MASTER_PAD_INFO>Portable Application Description, or PAD for short, is a data set that is used by shareware authors to disseminate information to anyone interested in their software products. To find out more go to http://pad.asp-software.org</MASTER_PAD_INFO>
+	</MASTER_PAD_VERSION_INFO>
+	<Company_Info>
+		<Company_Name>leolabs.org</Company_Name>
+		<Address_1 />
+		<Address_2 />
+		<City_Town />
+		<State_Province />
+		<Zip_Postal_Code />
+		<Country />
+		<Company_WebSite_URL />
+		<Contact_Info>
+			<Author_First_Name>Leo</Author_First_Name>
+			<Author_Last_Name>Bernard</Author_Last_Name>
+			<Author_Email>Leo-Bernard@gmx.de</Author_Email>
+			<Contact_First_Name />
+			<Contact_Last_Name />
+			<Contact_Email />
+		</Contact_Info>
+		<Support_Info>
+			<Sales_Email />
+			<Support_Email />
+			<General_Email />
+			<Sales_Phone />
+			<Support_Phone />
+			<General_Phone />
+			<Fax_Phone />
+		</Support_Info>
+	</Company_Info>
+	<Program_Info>
+		<Program_Name>QuExeCute</Program_Name>
+		<Program_Version>2.0</Program_Version>
+		<Program_Release_Month>19</Program_Release_Month>
+		<Program_Release_Day>04</Program_Release_Day>
+		<Program_Release_Year>2012</Program_Release_Year>
+		<Program_Cost_Dollars />
+		<Program_Cost_Other_Code />
+		<Program_Cost_Other />
+		<Program_Type>Freeware</Program_Type>
+		<Program_Release_Status>Beta</Program_Release_Status>
+		<Program_Install_Support>Install and Uninstall</Program_Install_Support>
+		<Program_OS_Support>Win7 x32,Win7 x64,WinVista,WinVista x64,WinXP</Program_OS_Support>
+		<Program_Language>English,German</Program_Language>
+		<Program_Change_Info>See http://qc.leolabs.org/changelog/</Program_Change_Info>
+		<Program_Specific_Category>Business</Program_Specific_Category>
+		<Program_Category_Class>Business::Other</Program_Category_Class>
+		<Program_System_Requirements>.NET Framework 4.0</Program_System_Requirements>
+		<File_Info>
+			<File_Size_Bytes>630831</File_Size_Bytes>
+			<File_Size_K>616</File_Size_K>
+			<File_Size_MB>0.60</File_Size_MB>
+		</File_Info>
+		<Expire_Info>
+			<Has_Expire_Info>N</Has_Expire_Info>
+			<Expire_Count />
+			<Expire_Based_On>Days</Expire_Based_On>
+			<Expire_Other_Info />
+			<Expire_Month />
+			<Expire_Day />
+			<Expire_Year />
+		</Expire_Info>
+	</Program_Info>
+	<Program_Descriptions>
+		<English>
+			<Keywords>Shortcut Command Search Engine Script Workflow</Keywords>
+			<Char_Desc_45 />
+			<Char_Desc_80 />
+			<Char_Desc_250 />
+			<Char_Desc_450>QuExeCute ist ein Tool, das Ihnen das Arbeiten mit mehreren Suchmaschinen, langen Dateinamen oder komplizierten Befehlen über Shortcuts und Kürzel erleichtern soll. Die Shortcuts  können von Ihnen beliebig angepasst werden, damit Sie Ihren Workflow so gut wie möglich optimieren können.</Char_Desc_450>
+			<Char_Desc_2000>QuExeCute ist ein Tool, welches dem User das Arbeiten mit mehreren Suchmaschinen, längeren Dateinamen oder komplizierten Befehlen erleichtern soll. Das Hauptfenster besteht aus einer Eingabezeile, in welche Sie verschiedene Begriffe eingeben können. Geben Sie z.B. eine Webadresse ein, öffnet sich der Standartbrowser mit dieser, geben Sie einen Dateipfad ein, öffnet sich der Windows-Explorer bzw. das entsprechende Programm, geben Sie einen Eingabezeilenbefehl ein, wird dieser in der Windows-Eingabezeile ausgeführt. An sich nichts Besonderes.
+
+Der Clou bei QuExeCute ist jedoch die einfache Erweiterbarkeit um Begriffe und Befehle. So müssen Sie, wenn Sie z.B. etwas bei Google suchen möchten nur “g” und den Suchbegriff eingeben (z.B. “g quicklaunch”). Über diese Abkürzungen können Sie jedoch nicht nur Websites öffnen, sondern auch das Starten von Programmen oder das Ausführen von Befehlen in der Eingabeaufforderung ist kein Problem.
+
+Standartmäßig sind in QuExeCute Shortcuts für Google, Facebook, YouTube und Bing enthalten. Diese Shortcuts können Sie entweder in den QuExeCute-Einstellungen selber erweitern, oder Sie suchen in unserer ständig wachsenden Shortcut Galerie nach dem, was Sie brauchen.</Char_Desc_2000>
+		</English>
+		<German>
+			<Keywords>Shortcut Command Search Engine Script Workflow Befehl Kürzel Suchmaschine</Keywords>
+			<Char_Desc_45 />
+			<Char_Desc_80 />
+			<Char_Desc_250 />
+			<Char_Desc_450>QuExeCute is a tool which simplifies working with many search-engines, long file names or commands by using Shortcuts. You can create and modify Shortcuts as you want to Optimize your Workflow as much as possible.</Char_Desc_450>
+			<Char_Desc_2000>QuExeCute is a tool which simplifies working with many search-engines, long file names or commands.  The main window of QuExeCute consists of an input line in which you can basically enter three types of texts. If you, for example type in a Web-adress into this line, your standard browser will open it. If you enter a file path, the Windows-Explorer or the according application will be started. And if you enter a command-line term, it will be executed in the Windows command-line. All from this window. Nothing very outstanding, right?
+
+The potential of  QuExeCute lays in it’s easy extensibility. You can create your own commands and shortcuts. So, if you for example want to search for something in Google, you just enter “g” and the search term (e.g. “g quicklaunch”). But you can’t only open websites with your shortcuts. You can also start applications or execute command-line terms.
+
+Shortcuts for Google, Facebook, YouTube and Bing are already integrated into QuExeCute. You can extend them through the QuExeCute-Settings or you can visit our growing Shortcut Gallery and search for what you need.</Char_Desc_2000>
+		</German>
+	</Program_Descriptions>
+	<Web_Info>
+		<Application_URLs>
+			<Application_Info_URL>http://qc.leolabs.org/</Application_Info_URL>
+			<Application_Order_URL />
+			<Application_Screenshot_URL>http://qc.leolabs.org/common/webscreen.png</Application_Screenshot_URL>
+			<Application_Icon_URL>http://qc.leolabs.org/common/logo.png</Application_Icon_URL>
+			<Application_XML_File_URL>http://qc.leolabs.org/common/pad.xml</Application_XML_File_URL>
+		</Application_URLs>
+		<Download_URLs>
+			<Primary_Download_URL>http://qc.leolabs.org/builds/latest/setup.exe</Primary_Download_URL>
+			<Secondary_Download_URL />
+			<Additional_Download_URL_1 />
+			<Additional_Download_URL_2 />
+		</Download_URLs>
+	</Web_Info>
+	<Permissions>
+		<Distribution_Permissions />
+		<EULA />
+	</Permissions>
+</XML_DIZ_INFO>

@@ -1,0 +1,44 @@
+﻿<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<!-- This is the Config File of QuickLaunch. Please don't change it if you don't know what you do. -->
+<appconfig>
+  <!-- opacity = the opacity of the main window, from 0 to 100 -->
+  <opacity>90</opacity>
+  <!-- width = The width of the main Window - mustn't be smaller than 400px -->
+  <width>625</width>
+  <!-- position = The position of the Main window of QuickLaunch.
+		0 = On the Top edge of the screen
+		1 = In the center of the screen
+	-->
+  <position>0</position>
+  <!-- autocompletemode = How the Autocompletion should be displayed
+		0 = Not Displayed
+		1 = Open DropDown Menu (Suggest)
+		2 = Append to the Text in the TextBox (Append)
+		3 = Open DropDown Menu and Append to the Test in the TextBox (SuggestAppend)
+	-->
+  <autocompletemode>1</autocompletemode>
+  <!-- acceptqllinks = Accept ingiong QuickLaunch Links and react to them. Disable it if you don't want to allow Apps and Websites to add Shortcuts to QuickLaunch -->
+  <acceptqllinks>1</acceptqllinks>
+  <!-- language = The Language in which QuickLaunch will be run.
+		DEF = The Default System Language
+		All the other languages use the two-letter codes (e.g. EN, DE)
+  -->
+  <language>DEF</language>
+  <!-- hotkey = The hotkey used to open the QuickLaunch window. Please don't change it here! -->
+  <hotkey>220</hotkey>
+  <hkmods>4</hkmods>
+  <!-- firststart = Show the welcome message and ask the user to read the introduction -->
+  <firststart>1</firststart>
+  <shortcuts>
+    <!-- Variables:
+			%query% = The text after the entered Term.
+			%querywplus% = The text after the Term, with pluses instead of spaces.
+			
+			%iconpath% = The Path of the Icons folder, without trailing slash (normally "C:\Users\{USERNAME}\AppData\Roaming\QuickLaunch\icons)
+		-->
+    <sc title="Google-Suche" term="g" path="http://google.com/search?q=%querywplus%" icon="%iconpath%\google.png" />
+    <sc title="Bing-Suche" term="b" path="http://www.bing.com/search?q=%querywplus%" icon="%iconpath%\bing.png" />
+    <sc title="YouTube-Suche" term="yt" path="http://www.youtube.com/results?search_query=%querywplus%" icon="%iconpath%\youtube.png" />
+    <sc title="Facebook" term="fb" path="https://www.facebook.com/search/results.php?%query%" icon="%iconpath%\facebook.png" />
+  </shortcuts>
+</appconfig>

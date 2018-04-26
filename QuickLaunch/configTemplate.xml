@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- This is the Config File of QuickLaunch. Please don't change it if you don't know what you do. -->
+<appconfig>
+
+</appconfig>
+
+<shortcuts>
+	<!-- Variables:
+		%query% = The text after the entered Term.
+		%querywplus% = The text after the Term, with pluses instead of spaces.
+	-->
+	<sc term="g" title="Google-Suche" path="http://google.com/search?q=%querywplus%" />
+	<sc term="b" title="Bing-Suche" path="http://www.bing.com/search?q=%querywplus%" />
+	<sc term="y" title="Yahoo!-Suche" path="http://search.yahoo.com/search?p=%querywplus%" />
+</shortcuts>
